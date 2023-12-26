@@ -1,4 +1,13 @@
 ### Hi there 👋
+### My name is Luan William, Welcomo to my GitHub profile! Fell free to ask me anything you want to.
+
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luanwma) -->
+
+
+![Luan GitHub stats](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanwma&hide_progress=true))
+
+
+[![Luan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luanwma&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **luanwma/luanwma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
