@@ -4,7 +4,7 @@
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luanwma) -->
 
 
-![Luan GitHub stats](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanwma&hide_progress=true))
+![Luan GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanwma&hide_progress=true)
 
 
 [![Luan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luanwma&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
