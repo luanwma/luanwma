@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Luan William, Welcomo to my GitHub profile! Fell free to ask me anything you want to.
+### My name is Luan William, Welcome to my GitHub profile! Fell free to ask me anything you want to.
 
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luanwma) -->
 
